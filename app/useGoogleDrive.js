@@ -1,7 +1,7 @@
 import { useState, useCallback } from 'react';
 
-const GOOGLE_CLIENT_ID = 'YOUR_GOOGLE_CLIENT_ID';
-const GOOGLE_API_KEY = 'YOUR_GOOGLE_API_KEY';
+const GOOGLE_CLIENT_ID = '1066035178493-li8s5qle394uml0thved2d30v78igb7t.apps.googleusercontent.com';
+const GOOGLE_API_KEY = 'AIzaSyDIHrRqCjx0XWht4GtdP2l_ICgsGoQT_bA';
 const DISCOVERY_DOCS = ['https://www.googleapis.com/discovery/v1/apis/drive/v3/rest'];
 const SCOPES = 'https://www.googleapis.com/auth/drive.appdata';
 
